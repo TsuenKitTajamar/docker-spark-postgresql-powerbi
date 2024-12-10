@@ -239,7 +239,22 @@ Una vez procesados y cargados los datos en PostgreSQL, ya se pueden visualizarlo
 
 ## Power BI Dashboards
 
-**Pendiente: Subir y explicar gráficos
+
+![grafico](src/img/graph1.png)
+
+![grafico](src/img/graph2.png)
+
+![grafico](src/img/graph3.png)
+
+![grafico](src/img/graph4.png)
+
+![grafico](src/img/graph5.png)
+
+![grafico](src/img/graph6.png)
+
+![grafico](src/img/graph7.png)
+
+![grafico](src/img/graph8.png)
 
 ## Entendiendo los datos: Acrónimos
 
