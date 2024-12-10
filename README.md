@@ -49,10 +49,8 @@ Necesitaremos tener instalado:
 
 #### 1. Clonar el repositorio de GitHub.
 
-Cambiar por nuestro repo************************************
-
 ```bash
-git clone https://github.com/Muhammadatef/ArsenalFC-Data-Pipeline-Project
+git clone https://github.com/TsuenKitTajamar/docker-spark-postgresql-powerbi.git
 ```
 
 #### 2. Cambiarse al directorio del proyecto
