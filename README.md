@@ -87,10 +87,13 @@ Para acceder nos pedirá un`token` para ello accedemos al cliente de Docker, bus
 
 Para acceder copiar el token y lo introducimos para acceder a la interfaz de Jupyter Notebooks.
 
+Una vez accedido buscar el directorio work
 
 - **Ejecuta el notebook Extract.ypynb** : Selecciona `Run All Cells` 
 
-- **Ejecuta el notebook Extract.ypynb** : Selecciona `Run All Cells` 
+- **Ejecuta el notebook Transform & Load.ypynb** : Selecciona `Run All Cells` 
+
+Para ello busca la pestaña `Run` y busca en el desplegable al clic y busca por `Run all cells`
 
 #### 5. Visualizar con Power BI 
 
@@ -103,7 +106,6 @@ Para acceder copiar el token y lo introducimos para acceder a la interfaz de Jup
     - **Contraseña  ->** `postgres`
 
     Estas credenciales las puedes ver en el `docker-compose.yml`
-
     
 4. Selecciona todas las tablas y haz clic en `Cargar`
 
@@ -172,7 +174,7 @@ garantizando que los datos en bruto sean accesibles para los pasos posteriores d
 
     El uso de Apache Spark permite manejar grandes volúmenes de datos de manera eficiente. Aunque actualmente se trabaja con archivos CSV, Spark puede escalar para procesar fuentes más grandes, como datos en la nube o HDFS, lo que hace que la capa de extracción sea flexible y adaptable a futuros crecimientos.
 
-    ¿Por qué utilizar PySpark para la capa de extracción?
+    **¿Por qué utilizar PySpark para la capa de extracción?**
 
     Procesamiento paralelo: PySpark permite procesar grandes archivos CSV en paralelo a través de múltiples nodos, acelerando y optimizando la extracción de datos respecto a métodos tradicionales.
 
@@ -325,6 +327,11 @@ Indica la cantidad de partidos en los que el portero no se han concedido goles.
 - RW - Right Winger (Extremo Derecho): Similar al extremo izquierdo, juega en la banda derecha. Su objetivo es desbordar a los defensores y centrar al área, además de intentar anotar goles.
 - LW - Left Winger (Extremo Izquierdo): Juega en la banda izquierda, generalmente más cerca de la línea de banda. Su objetivo es desbordar a los defensores y centrar al área o cortar hacia adentro y disparar a portería.
 - FW - Forward (Delantero): Jugador cuyo principal objetivo es marcar goles. Se sitúa cerca de la portería rival y es responsable de finalizar las jugadas ofensivas.
+
+**Repositorio original del autor:**
+``` 
+git clone https://github.com/Muhammadatef/ArsenalFC-Data-Pipeline-Project
+```
 
  
 
