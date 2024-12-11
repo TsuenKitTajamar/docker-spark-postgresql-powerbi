@@ -2,6 +2,11 @@
 
 Proyecto basado en : [Building a football data pipeline a walkthrough of the Arsenal FC data en engineering project](https://medium.com/@muhamedfahmy7474/building-a-football-data-pipeline-a-walkthrough-of-the-arsenal-fc-data-engineering-project-4383cd247192)
 
+**Repositorio original del autor:**
+``` 
+git clone https://github.com/Muhammadatef/ArsenalFC-Data-Pipeline-Project
+```
+
 En este proyecto de canalización de datos del equpo de fútbol Arsenal FC donde se llevará a cabo una práctica en la que aprenderemos habilidades esenciales de ingeniería de datos.
 
 La configuración de canalización de divirá en las siguientes fases:
@@ -345,10 +350,6 @@ Indica la cantidad de partidos en los que el portero no se han concedido goles.
 - LW - Left Winger (Extremo Izquierdo): Juega en la banda izquierda, generalmente más cerca de la línea de banda. Su objetivo es desbordar a los defensores y centrar al área o cortar hacia adentro y disparar a portería.
 - FW - Forward (Delantero): Jugador cuyo principal objetivo es marcar goles. Se sitúa cerca de la portería rival y es responsable de finalizar las jugadas ofensivas.
 
-**Repositorio original del autor:**
-``` 
-git clone https://github.com/Muhammadatef/ArsenalFC-Data-Pipeline-Project
-```
 
  
 
