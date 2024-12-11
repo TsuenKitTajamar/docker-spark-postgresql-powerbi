@@ -47,6 +47,8 @@ Necesitaremos tener instalado:
 
 ### Instalación y configuración
 
+[Video tutorial siguiendo la guía paso a paso](https://tajamar365-my.sharepoint.com/:v:/p/tsuenkit_lui/EVaC30vPIJBOkAT42DYw0a0BMUKasSDAN9SaH3N2QulmTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=be0MGb)
+
 #### 1. Clonar el repositorio de GitHub.
 
 ```bash
